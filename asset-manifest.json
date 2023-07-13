@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/course-advertisement-app/static/css/main.43349719.css",
+    "main.js": "/course-advertisement-app/static/js/main.4852bb75.js",
+    "index.html": "/course-advertisement-app/index.html",
+    "main.43349719.css.map": "/course-advertisement-app/static/css/main.43349719.css.map",
+    "main.4852bb75.js.map": "/course-advertisement-app/static/js/main.4852bb75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43349719.css",
+    "static/js/main.4852bb75.js"
+  ]
+}
